@@ -15,6 +15,7 @@ status-website:
   name: Countless Status Page
   introTitle: "**Countless** is the all-in-one platform for financial decision-making."
   introMessage: This page provides relevant information about Countless services status, incidents and updates.
+  navbar:
     - title: Status
       href: /
     - title: Get Countless
