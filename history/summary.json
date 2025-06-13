@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.countless.ai.ico",
     "slug": "countless-app",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 363,
-    "timeDay": 540,
-    "timeWeek": 348,
-    "timeMonth": 363,
-    "timeYear": 363,
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 387,
+    "timeDay": 860,
+    "timeWeek": 421,
+    "timeMonth": 387,
+    "timeYear": 387,
     "dailyMinutesDown": {
       "2025-05-26": 32
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 165,
-    "timeWeek": 255,
-    "timeMonth": 277,
-    "timeYear": 299,
+    "time": 325,
+    "timeDay": 842,
+    "timeWeek": 356,
+    "timeMonth": 307,
+    "timeYear": 325,
     "dailyMinutesDown": {}
   }
 ]
