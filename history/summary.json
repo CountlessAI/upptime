@@ -24,17 +24,19 @@
     "url": "https://app-dev.countless.ai",
     "icon": "https://icons.duckduckgo.com/ip3/app-dev.countless.ai.ico",
     "slug": "countless-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 333,
-    "timeDay": 566,
-    "timeWeek": 407,
-    "timeMonth": 320,
-    "timeYear": 333,
-    "dailyMinutesDown": {}
+    "time": 336,
+    "timeDay": 492,
+    "timeWeek": 408,
+    "timeMonth": 324,
+    "timeYear": 336,
+    "dailyMinutesDown": {
+      "2025-06-18": 0
+    }
   }
 ]
