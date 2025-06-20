@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 393,
-    "timeDay": 100,
-    "timeWeek": 480,
-    "timeMonth": 393,
-    "timeYear": 393,
+    "time": 383,
+    "timeDay": 113,
+    "timeWeek": 373,
+    "timeMonth": 383,
+    "timeYear": 383,
     "dailyMinutesDown": {
       "2025-05-26": 32
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app-dev.countless.ai.ico",
     "slug": "countless-dev",
     "status": "down",
-    "uptime": "96.06%",
-    "uptimeDay": "5.99%",
-    "uptimeWeek": "86.57%",
-    "uptimeMonth": "96.06%",
-    "uptimeYear": "96.06%",
-    "time": 328,
-    "timeDay": 263,
-    "timeWeek": 401,
-    "timeMonth": 315,
-    "timeYear": 328,
+    "uptime": "92.19%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "72.29%",
+    "uptimeMonth": "92.19%",
+    "uptimeYear": "92.19%",
+    "time": 322,
+    "timeDay": 145,
+    "timeWeek": 314,
+    "timeMonth": 309,
+    "timeYear": 322,
     "dailyMinutesDown": {
-      "2025-06-19": 15,
+      "2025-06-20": 14,
+      "2025-06-19": 1440,
       "2025-06-18": 1339
     }
   }
