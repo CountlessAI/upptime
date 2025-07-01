@@ -4,17 +4,17 @@
     "url": "https://app.countless.ai",
     "icon": "https://icons.duckduckgo.com/ip3/app.countless.ai.ico",
     "slug": "countless-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 386,
-    "timeDay": 374,
-    "timeWeek": 437,
-    "timeMonth": 385,
-    "timeYear": 386,
+    "time": 385,
+    "timeDay": 366,
+    "timeWeek": 427,
+    "timeMonth": 384,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2025-05-26": 32
     }
