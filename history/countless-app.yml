@@ -1,7 +1,7 @@
 url: https://app.countless.ai
-status: up
-code: 200
-responseTime: 507
-lastUpdated: 2026-01-12T23:05:09.827Z
+status: down
+code: 503
+responseTime: 360
+lastUpdated: 2026-01-13T04:45:54.459Z
 startTime: 2025-05-26T03:54:23.527Z
 generator: Upptime <https://github.com/upptime/upptime>
